@@ -16,9 +16,9 @@
 
 ### Решение
 
-![alt text](https://github.com/Semergal/sflt/blob/master/Screenshot_1.jpg)
+![alt text](https://github.com/Semergal/sflt/blob/main/Screenshot_1.jpg)
 
-![alt text](https://github.com/Semergal/sflt/blob/master/Screenshot_2.jpg)
+![alt text](https://github.com/Semergal/sflt/blob/main/Screenshot_2.jpg)
 
 
 
@@ -37,9 +37,9 @@
 
 ### Решение
 
-![alt text](https://github.com/Semergal/sflt/blob/master/Screenshot_3.jpg)
+![alt text](https://github.com/Semergal/sflt/blob/main/Screenshot_3.jpg)
 
-![alt text](https://github.com/Semergal/sflt/blob/master/Screenshot_4.jpg)
+![alt text](https://github.com/Semergal/sflt/blob/main/Screenshot_4.jpg)
 
 
 
